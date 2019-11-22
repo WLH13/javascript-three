@@ -2,6 +2,10 @@
 
 In this lecture we go over array methods, gain a better understanding with objects, learn the spread operator, and use nested for loops.
 
+## Lecture Slides
+
+https://slides.com/mattbodily/deck-23
+
 ## Arrow Functions
 
 Arrow functions are another way we can write a function. I personally prefer using arrow functions because I believe it's cleaner syntax and more modern.
